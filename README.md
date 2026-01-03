@@ -1,2 +1,16 @@
 # android_device_samsung_gtelwifi
-Experimental device tree for Samsung Galaxy Tab E (gtelwifi)
+# Samsung Galaxy Tab E (gtelwifi) Device Tree
+
+This device tree is experimental and minimally reconstructed to allow
+LineageOS 16 (Android 9.0) to build.
+
+Status: EXPERIMENTAL / UNTESTED  
+Device not owned by maintainer.
+
+Notes:
+- Kernel is stock Samsung, extracted from official firmware
+- Kernel source is available from Samsung Open Source Release Center
+- Vendor blobs extracted from official Samsung firmware
+
+This tree is intended for development and experimentation only.
+
