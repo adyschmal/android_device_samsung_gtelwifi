@@ -13,4 +13,7 @@ Notes:
 - Vendor blobs extracted from official Samsung firmware
 
 This tree is intended for development and experimentation only.
-
+Vendor blobs:
+- Extracted from official Samsung firmware for gtelwifi.
+- Users must extract their own blobs from stock firmware.
+- 
